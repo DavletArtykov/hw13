@@ -1,0 +1,50 @@
+
+
+
+
+.request-cheif{
+
+    background-color: rgb(48, 48, 48);
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.request{
+    border: 1px solid rgb(255, 255, 255);
+    width: 700px;
+    height: 500px;
+    /* padding: 10px; */
+    margin: 20px;
+  
+    
+}
+
+.request h1{
+    color: white;
+    font-size: 20px;
+ margin: 20px;
+    
+}
+
+.request span{
+    border: 2px solid white;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 550px ;
+    top: 20px;
+    padding: 50px;
+}
+.request h3{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.request img{
+    position: relative;
+    left: 280px;
+    top: 100px ;
+    transform: scale(2.0);
+}
+
